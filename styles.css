@@ -25,11 +25,12 @@ body {
     border-radius: 5px;
 } */
 nav img {
-    width: 60px; /* Ancho deseado para la imagen */
-    height: 60px; /* Altura automática para mantener la proporción */
+    width: 80px; /* Ancho deseado para la imagen */
+    height: 80px; /* Altura automática para mantener la proporción */
     display: block; /* Para asegurar que la imagen respete los márgenes y se alinee correctamente */
     margin: 0 auto; /* Centrar la imagen horizontalmente dentro del nav */
-    margin-right: 5px; /* Espacio a la derecha de la imagen */
+    margin-left: 5px; /* Espacio a la derecha de la imagen */
+    border-radius: 100px; /* Agrega un radio de 10px a todas las esquinas del logo */
 }
 
 .contact-numbers {
