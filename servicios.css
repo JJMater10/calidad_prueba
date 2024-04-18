@@ -57,7 +57,7 @@ footer {
 }
 
 .container {
-    max-width: 800px;
+    max-width: 900px;
     margin: 0 auto;
     padding: 20px;
     background-color: #fff;
@@ -65,7 +65,12 @@ footer {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: left;
     margin-bottom: 20px; /* Agrega un margen inferior para separar el container del footer */
+
+    .container h1 {
+        text-align: center;
+    }
 }
+
 .container-row {
     display: flex;
     flex-wrap: wrap;
