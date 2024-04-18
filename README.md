@@ -1,6 +1,6 @@
-# calidad_prueba
-###INTEGRANTES
-- JHan jaider alvarez
-- juan sebastian calderon
-- Harold franco
-- David Ricardo jaramillo
+# Taller calidad prueba
+## ##INTEGRANTES
+- Jhan Jaider Alvarez
+- Juan Sebastian Calderon
+- Jhon Harold Franco
+- David Ricardo Jaramilo  Ruiz 
