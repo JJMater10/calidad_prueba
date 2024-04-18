@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #146108;
+    padding: 10px 0;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    margin-right: 20px;
+    width: 80px; /* Ajustar el tamaño del logo según sea necesario */
+    border-radius: 100px; /* Agrega un radio de 10px a todas las esquinas del logo */
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #146108;
+}
+
+nav ul li a:hover {
+    color: #eeeeee;
+}
+
+.cover-image {
+    width: 100%;
+}
+
+.titulo{
+    text-align: center;
+}
